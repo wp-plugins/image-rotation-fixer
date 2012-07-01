@@ -14,6 +14,8 @@ Automatically fixes the rotation of JPEG images using PHP's EXIF extension, imme
 
 Automatically fixes the rotation of JPEG images using PHP's EXIF extension, immediately after they are uploaded to the server. Plugin requires no configuration, it simply hooks itself to WordPress' upload procedure and takes care of everything.
 
+Developed during my internship at [DX Wave](http://www.dxwavetech.com).
+
 == Installation ==
 
 1. Upload `image-rotation-fixer` to the `/wp-content/plugins/` directory
